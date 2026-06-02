@@ -8,6 +8,7 @@ const links = [
   {label: '🐙 GitHub', url:'https://github.com/lzluizdiasds'},
   {label: '💼 LinkedIn', url: 'https://www.linkedin.com/in/luiz-dias-artigas-junior-49a5a7214/'},
   {label: '📧 Email', url: 'mailto:lusdiasskt@gmail.com'},
+  {label: '☎️ Whatsapp', url: 'https://wa.me/5567993214917'}
 ]
 
 function App() {
